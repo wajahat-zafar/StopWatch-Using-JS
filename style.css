@@ -1,0 +1,24 @@
+body{
+    background-color: darkgrey;
+}
+.container{
+    text-align: center;
+    background-color: rgb(22, 24, 22);
+    color: rgb(112, 110, 110);
+    width: 500px;
+    position: relative;
+    top: 200px;
+    border-radius: 7%;
+    
+}
+h1{
+    display: inline-block;
+    width: 100px;
+
+}
+.container-sm{
+    text-align: center;
+    position: relative;
+    top: 220px;
+    
+}
